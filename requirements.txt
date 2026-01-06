@@ -1,0 +1,9 @@
+SpeechRecognition
+edge-tts
+pygame
+os
+wikipedia 
+threading
+asyncio
+uuid
+tkinter (comes pre-installed with Python)
